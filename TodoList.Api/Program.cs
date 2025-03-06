@@ -1,3 +1,4 @@
+using FluentValidation.AspNetCore;
 using Microsoft.OpenApi.Models;
 using TodoList.Application;
 using TodoList.Infrastructure;

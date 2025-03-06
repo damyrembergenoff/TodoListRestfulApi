@@ -15,3 +15,4 @@ D:\Projects\TodoList\TodoList.Application\obj\Debug\net8.0\TodoList.Application.
 D:\Projects\TodoList\TodoList.Application\obj\Debug\net8.0\refint\TodoList.Application.dll
 D:\Projects\TodoList\TodoList.Application\obj\Debug\net8.0\TodoList.Application.pdb
 D:\Projects\TodoList\TodoList.Application\obj\Debug\net8.0\ref\TodoList.Application.dll
+D:\Projects\TodoList\TodoList.Application\obj\Debug\net8.0\TodoList.Application.sourcelink.json

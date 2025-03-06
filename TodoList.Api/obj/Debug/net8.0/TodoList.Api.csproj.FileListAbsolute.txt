@@ -148,3 +148,7 @@ D:\Projects\TodoList\TodoList.Api\obj\Debug\net8.0\refint\TodoList.Api.dll
 D:\Projects\TodoList\TodoList.Api\obj\Debug\net8.0\TodoList.Api.pdb
 D:\Projects\TodoList\TodoList.Api\obj\Debug\net8.0\TodoList.Api.genruntimeconfig.cache
 D:\Projects\TodoList\TodoList.Api\obj\Debug\net8.0\ref\TodoList.Api.dll
+D:\Projects\TodoList\TodoList.Api\bin\Debug\net8.0\FluentValidation.dll
+D:\Projects\TodoList\TodoList.Api\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+D:\Projects\TodoList\TodoList.Api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Projects\TodoList\TodoList.Api\obj\Debug\net8.0\TodoList.Api.sourcelink.json

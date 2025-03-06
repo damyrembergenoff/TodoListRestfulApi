@@ -15,3 +15,4 @@ D:\Projects\TodoList\TodoList.Infrastructure\obj\Debug\net8.0\refint\TodoList.In
 D:\Projects\TodoList\TodoList.Infrastructure\obj\Debug\net8.0\TodoList.Infrastructure.pdb
 D:\Projects\TodoList\TodoList.Infrastructure\obj\Debug\net8.0\TodoList.Infrastructure.genruntimeconfig.cache
 D:\Projects\TodoList\TodoList.Infrastructure\obj\Debug\net8.0\ref\TodoList.Infrastructure.dll
+D:\Projects\TodoList\TodoList.Infrastructure\obj\Debug\net8.0\TodoList.Infrastructure.sourcelink.json
