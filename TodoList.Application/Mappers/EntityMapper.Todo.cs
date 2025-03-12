@@ -22,4 +22,12 @@ public static partial class EntityMappers
             Description = todo.Description,
             UserId = userId
         };
+
+    public static Todo ToEntity(this TodoUpdateRequest todo, Guid userId)
+        => new()
+        {
+            Title = todo.Title,
+            Description = todo.Description,
+            UserId = userId
+        };
 }

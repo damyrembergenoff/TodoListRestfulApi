@@ -42,10 +42,12 @@ public class TodoService(ITodoRepository repository) : ITodoService
     public async ValueTask UpdateTodoAsync(Guid userId, Guid todoId, TodoUpdateRequest todoUpdateRequestDto)
     {
         var todo = await repository.GetByIdAsync(todoId);
-        
+        var updateTodo = todoUpdateRequestDto.ToEntity(userId);
+        updateTodo.Id = todo.Id;
+
         if(todo is null || todo.UserId != userId)
             throw new Exception("Todo not found or access denied");
         
-        await repository.UpdateAsync(todo);
+        await repository.UpdateAsync(updateTodo);
     }
 }
